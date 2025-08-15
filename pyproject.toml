@@ -1,0 +1,7 @@
+[project]
+name = "py-emitkit"
+version = "0.1.0"
+description = "A lightweight library that provides an interface for creating both async and sync event emitters in python. "
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
